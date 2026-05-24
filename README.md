@@ -17,7 +17,7 @@ sudo gem install neovim
 ```
 Now clone my repository
 ```bash
-git clone https://github.com/acandiach/configs.git
+git clone https://github.com/acandiach/Dotfiles.git
 ```
 ## For Neovim Linux 
 >For Debian, Ubuntu and derivatives. 
