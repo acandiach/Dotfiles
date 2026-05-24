@@ -1,4 +1,4 @@
-# Configs
+# Dotfiles
 My personal configs
 ### If you want to get my settings.
 
